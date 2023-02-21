@@ -18,3 +18,6 @@
 
 ### 바람개비 모양
 <img src="https://user-images.githubusercontent.com/107675322/219943646-5f9a5514-7e20-4df2-bf71-2bb5a5badb2a.gif" width= "500" height="300" />
+
+## Chapter 5. 미니 게임
+<img src="https://user-images.githubusercontent.com/107675322/220360517-7939dbb9-08ba-4ea7-a704-67a2dc4aff70.gif" width="500" height="300" />
